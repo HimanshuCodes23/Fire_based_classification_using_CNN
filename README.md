@@ -1,1 +1,1 @@
-https://github.com/tanmay-563/Fire_based_classification_using_CNN
+https://www.kaggle.com/tanmayy29/code
